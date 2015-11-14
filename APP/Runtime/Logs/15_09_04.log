@@ -1,0 +1,20 @@
+[ 2015-09-04T09:22:58+08:00 ] 127.0.0.1 /shop/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.016832s ]
+
+[ 2015-09-04T13:25:09+08:00 ] 127.0.0.1 /shop/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+
+[ 2015-09-04T13:25:12+08:00 ] 127.0.0.1 /shop/index.php/Home/Program/index/id/328
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+
+[ 2015-09-04T13:25:28+08:00 ] 127.0.0.1 /shop/index.php/Home/Program/showlist/id/329
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+
+[ 2015-09-04T13:25:51+08:00 ] 127.0.0.1 /shop/index.php/Home/Program/detail/id/7
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+
